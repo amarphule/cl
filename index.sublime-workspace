@@ -1,0 +1,364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"calculator"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"R",
+				"Response"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"arti",
+				"article_list"
+			],
+			[
+				"e",
+				"entityManager"
+			],
+			[
+				"getD",
+				"getDoctrine"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"arry",
+				"array"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"Text",
+				"TextareaType"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"T",
+				"TextType"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"C",
+				"Class"
+			],
+			[
+				"A",
+				"Article"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"b",
+				"Button"
+			],
+			[
+				"di",
+				"discription"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"componen",
+				"Component"
+			],
+			[
+				"compone",
+				"newt_component_add_callback"
+			],
+			[
+				"Lucky",
+				"LuckyController"
+			],
+			[
+				"p",
+				"phpversion"
+			],
+			[
+				"bo",
+				"body\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"php",
+				"phpinfo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/calc/calc.php",
+		"/var/www/html/index.php",
+		"/var/www/html/calc/calc",
+		"/home/amar/Desktop/NodeMCU/3h_may18.ino",
+		"/home/amar/Sites/blog/src/Controller/BlogController.php",
+		"/home/amar/Sites/blog/.env",
+		"/home/amar/Sites/blog/src/Entity/Author.php",
+		"/home/amar/Sites/blog/src/Entity/BlogPost.php",
+		"/home/amar/Sites/abc/templates/base.html.twig",
+		"/home/amar/Sites/abc/templates/articles/new.html.twig",
+		"/home/amar/Sites/abc/templates/articles/show.html.twig",
+		"/home/amar/Sites/abc/templates/articles/edit.html.twig",
+		"/home/amar/Sites/abc/src/Controller/ArticleController.php",
+		"/home/amar/Sites/abc/templates/articles/index.html.twig",
+		"/home/amar/Sites/abc/public/js/main.js",
+		"/home/amar/Sites/abc/templates/inc/navbar.html.twig",
+		"/etc/hosts",
+		"/home/amar/Sites/blog/config/services.yaml",
+		"/home/amar/Sites/blog/config/routes.yaml",
+		"/etc/apache2/sites-enabled/amar.comf",
+		"/home/amar/Sites/abc/src/Entity/Article.php",
+		"/home/amar/Sites/abc/.env",
+		"/home/amar/Sites/abc/config/routes.yaml",
+		"/home/amar/Sites/abc/templates/article/index.html.twig",
+		"/var/www/html/index.html",
+		"/home/amar/web/my-project/src/Controller/index.html",
+		"/home/amar/web/my-project/src/Controller/UserController.php",
+		"/home/amar/web/my-project/src/Entity/User.php",
+		"/home/amar/web/my-project/.env",
+		"/home/amar/web/my-project/src/Entity/Task.php",
+		"/home/amar/web/my-project/templates/default/new.html.twig",
+		"/home/amar/web/my-project/src/Migrations/Version20180312084728.php",
+		"/home/amar/web/my-project/src/Controller/DefaultController.php",
+		"/home/amar/Downloads/twist/index.html",
+		"/home/amar/web/my-project/src/form/TaskType.php.txt",
+		"/home/amar/web/my-project/config/packages/framework.yaml",
+		"/home/amar/web/my-project/src/Controller/LuckyController.php.txt",
+		"/home/amar/web/my-project/templates/Default/new.html.twig",
+		"/home/amar/web/my-project/src/Controller/LuckyController.php",
+		"/home/amar/web/my-project/templates/lucky/number.html.twig",
+		"/home/amar/web/my-project/templates/lucky/form.html.twig",
+		"/home/amar/websites/project_1/src/Controller/ANewCntr.php_txt",
+		"/home/amar/websites/myFirstSite/config/routes.yaml",
+		"/home/amar/websites/myFirstSite/src/Controller/LuckyController.php",
+		"/home/amar/first_project/form.html",
+		"/home/amar/websites/myFirstSite/src/Controller/BlogController.php",
+		"/home/amar/websites/project_1/src/Controller/LuckyController.php_txt",
+		"/home/amar/websites/project_1/src/Controller/BlogController.php",
+		"/home/amar/websites/project_1/config/routes.php",
+		"/home/amar/websites/project_1/config/routes.yaml",
+		"/home/amar/websites/project_1/vendor/symfony/http-kernel/Tests/HttpKernelTest.php",
+		"/home/amar/websites/project_1/vendor/symfony/framework-bundle/Controller/Controller.php",
+		"/home/amar/websites/project_1/templates/lucky/number.html.twig",
+		"/home/amar/websites/project_1/src/Controller/LuckyController.php",
+		"/home/amar/websites/project_1/src/Controller/LuckyController",
+		"/home/amar/web/my-project/config/routes.yaml.txt",
+		"/home/amar/web/my-project/config/services.yaml",
+		"/home/amar/web/my-project/config/routes.yaml",
+		"/home/amar/Sites/the_spacebar/src/Controller/LuckyController.php",
+		"/home/amar/web/my-project/src/Controller/luckycontroller.php",
+		"/home/amar/Sites/the_spacebar/src/Controller/namespace",
+		"/var/www/html/random.php",
+		"/var/www/html/test.php",
+		"/var/www/html/info.php",
+		"/var/www/html/text.php",
+		"/var/www/html/drupal/sites/default/settings.php",
+		"/var/www/html/drupal/sites/default/default.settings.php",
+		"/var/www/html/drupal/sites/example.sites.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

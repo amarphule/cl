@@ -17,26 +17,31 @@ class calc {
 
 	public function calcMethod()
 	{
-		
+		if(empty($this->num1) || empty($this->num2))	//condition for field should be not empty.
+		{
+			echo "Field must not be empty";
+		}
+		else
+		{												//if both field fill execute the selected operation
 		switch ($this->cal) {
-			case 'add':
+			case 'add':									// code for Addition
 				$result = $this->num1 + $this->num2;
 				break;
-			case 'sub':
+			case 'sub':									// code for Subtraction
 				$result = $this->num1 - $this->num2;
 				break;
-			case 'mul':
+			case 'mul':									// code for Multiplication
 				$result = $this->num1 * $this->num2;
 				break;
-			case 'div':
+			case 'div':									// code for Division
 				$result = $this->num1 / $this->num2;
 				break;
 			default:
-				$result = "Error: two values needed";
+				$result = "Error:";
 				break;
 		}
-		return $result;
-		
+		return $result;									// get the Result
+		}
 	}
 
 }
